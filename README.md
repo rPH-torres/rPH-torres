@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rPH-torres...
 - 
-- 🇵🇭 Residing in the Philippines, a fresh grad of IT, currently employed but looking for a more technology-related profession to jumpstart my career in IT and pursue it until the day I won't need to work. 
+- 🇵🇭 Residing in the Philippines, a fresh grad of IT, currently employed as a Data Encoder but looking for a more technology-related profession to jumpstart my career in IT and pursue it until the day I won't need to work. 
 - 
 - 👀 I’m interested in Software Development, Web-Development, Graphic Design and all sorts of cool stuff...
 - 
